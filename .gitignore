@@ -1,4 +1,4 @@
-models/
+models/*
 !models/.gitkeep
-dataset/
-!dataset/.gitkeep
+data/*
+!data/.gitkeep
